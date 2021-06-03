@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Pindar of Wakefield; or, a true narration of the unparalell'd victory obtained against the Popish army at the taking in of Wakefield in Yorkeshire, by the Lord Fairfaxe his forces, May 20. 1643 As it was sent in a letter from one in that army, to his friend here in London, not altering it from his native tone, more like Chaucers English, then ours here. Besides an advertisement of great concernment.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90709</idno><idno type="EEBO-CITATION">99895839</idno>
+  <idno type="VID">153483</idno>
+  <idno type="EEBO-PROQUEST">2240917899</idno>
+  
+            <idno type="STC">Wing P2251A</idno>
+            <idno type="STC">ESTC R223152</idno>
+            <idno type="PROQUEST">99895839</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895839e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153483)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Pindar of Wakefield; or, a true narration of the unparalell'd victory obtained against the Popish army at the taking in of Wakefield in Yorkeshire, by the Lord Fairfaxe his forces, May 20. 1643 As it was sent in a letter from one in that army, to his friend here in London, not altering it from his native tone, more like Chaucers English, then ours here. Besides an advertisement of great concernment.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Internal mispaginations.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Wakefield (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153483:1"/>
+            <figure>
+               <figDesc>modern bookplate?</figDesc>
+               <head>✚ edward hail<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tone.</head>
+            </figure>
+            <pb facs="tcp:153483:1"/>
+            <pb facs="tcp:153483:2"/>
+            <pb facs="tcp:153483:2"/>
+            <p>THE PINDAR OF WAKEFIELD; OR, A TRUE NARRATION Of the unparalell'd Victory obtained against the Popish Army at the taking in of <hi>Wakefield</hi> in <hi>Yorkeshire,</hi> by the Lord <hi>Fairfaxe</hi> his Forces, <hi>May</hi> 20. 1643.</p>
+            <p>As it was sent in a Letter from one in that Army, to his friend here in <hi>London,</hi> not altering it from his native tone, more like <hi>Chaucers</hi> English, then ours here.</p>
+            <p>
+               <hi>Besides an advertisement of great Con<g ref="char:EOLhyphen"/>cernment.</hi>
+            </p>
+            <p>London Printed in the yeare, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153483:3"/>
+            <pb n="1" facs="tcp:153483:3"/>
+            <head>
+               <hi>The Pindar of</hi> VVakefield, OR, A true Narration of the unparalelled Victory obtained against the po<g ref="char:EOLhyphen"/>pish Army, at the taking in of <hi>Wakefield</hi> in <hi>Yorkeshire,</hi> by the Lord <hi>Fairfaxe</hi> his Forces, <hi>May</hi> the 20. 1643. <hi>As it was sent in a Letter from one in that Army to his friend here in</hi> London, <hi>not altering it from his native tone, more like</hi> Chaucers <hi>English then ours here.</hi> Besides an advertisement of great Concernment.</head>
+            <opener>
+               <salute>My Barne,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have had many a Caude heart of my awne, it is sea lang since I had onny wit of thy being weele, I was sare flade thou wert gane from the canny City of <hi>London</hi> to leuke abrade for better warke, whilke I crow will be far warse than to stay at hame: I have been too too jolly since my entertainment under the guide Lourd <hi>Fairfaxe,</hi> whea loves God, Religion, the King, and his Countries
+<pb n="4" facs="tcp:153483:4"/> guid in his saule, and has nea ends of his awne, God knawes, my Lourd is about to send a fallow of purpose to the Parliament, of hate warke we have had lately in the taking of <hi>Wakefield,</hi> which I desire to unfauld to thee, and tell my Neeme <hi>Wully</hi> of it. On Sa<g ref="char:EOLhyphen"/>turday last, being twea dayes since, my Lourd Generall gave Command that ane thousand of us of the foute, and eight or neene Troopes of horse, with twea or three companies of Dragoones should march about Saturday last tea a place called <hi>Howley,</hi> the Lord <hi>Savils</hi> house, where we all met about ane of the clocke at night, and it was varry mirke, and the <hi>Ginny Howlets</hi> cryed sare, and we had nea orders whirke way to march, at last Sir <hi>Thomas Fairfaxe,</hi> wheas Command we were to gange by, asked us if wee wauld follow him, we all cryed ane and all, we would live and dee with him, sea we marched on twea miles, and stumbled on the quarters of our deedly enemies, and gard them run fro us, and we tooke neither mare nor lesse then ane and twenty prisoners, and laid foure asleep for evermare: by that time the Larke began to sing, we were within a mile of <hi>Wakefield,</hi> and about foure a Clocke there appeired a body of Horse advancing with speed towards us, which scard us mickle, for we hoped weele to take them napping, but Sir <hi>Thomas Fairfaxe</hi> put life into the Horse, &amp; tauld them they should faire nea warse then he did, and our daughty Serjeant Ma<g ref="char:EOLhyphen"/>jor said as mickle to the Foute, and thereupon our horse charged sea hame, that they enforced the enemy to flee back into the Town: Then I was my sell with those under my Command to beate them out of the hedges in ane of the Closes on the right hand, where after six times charging we gat the hedges there, as o<g ref="char:EOLhyphen"/>thers of our foute did in other places, and we gard them all to their outworkes and trenches in the Towne, but we followed them sea clase, and plaid sea thick upon them (though they shot bullets out of their great guns as thick as hops against us) that wee made them run out of their warks, and we lowped up upon them, and turned ane of their greatest brasse gunnes upon them, which made them cry, <hi>Walloway all was tint and gane:</hi> Then Sir <hi>Thomas Fairefaxe</hi> at the tea end of the Towne scaured the streets, and Leiutenant <hi>Allured</hi> with his awne hands, tooke
+<pb n="5" facs="tcp:153483:4"/> the Generall of the Queens Horse prisoner, they call him Colonell <hi>Gooring,</hi> the Lasses in the Towne did greete sare to see him ledd a<g ref="char:EOLhyphen"/>way, it seemes he is mickle beloved of ordinary weemen, as weele as by the great anes: but whea trow you did I let drive at the entrance of the Towne, ene Sir <hi>William Carnaby</hi> our awne Countreyman, or Mr. <hi>Francis Car<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aby;</hi> be messe, I is suer it was tane or beath of them, and I hit him hame, but alas, when all was mast done, whea did oppose us but a guide freind of ours, <hi>Sir Wil<g ref="char:EOLhyphen"/>liam Lambton</hi> with his Regiment, I was wea at harte for him for his pratty Barnes, for he answered our Trumpeter he scorned Quat<g ref="char:EOLhyphen"/>ter, but in discharge of the imployment I undertooke. on my saule I knaw it is mare for the guide of my dread Soveraigne, then the Queene and all her Papists in her Army doe for him, I let drive at him, and whewed him soundly, and we gard him flee also, and tooke a number of his Regiment prisoners; when this was done, the Towne was our awne, and my sell among others fell a plunde<g ref="char:EOLhyphen"/>ring, but we had like to have been whupt for our paines, for our Commander in Chiefe would not let us doe wrang to the Inhabi<g ref="char:EOLhyphen"/>tants, nor strip the common Souldiers, but anely search their pou<g ref="char:EOLhyphen"/>ches for gaude or silver; Sir <hi>William Fowles</hi> who Commanded another squadron of horse, came in at the other end of the Town, and stopt the flight of the enemy, if he had come titter, our part had been better; sea wee tooke noe mare but fourteen hundred seaventy twea prisoners, besides the twenty and one in our march, and ilk one of us brought to <hi>Leeds</hi> a prisoner, being between four<g ref="char:EOLhyphen"/>teen and fifteen hundred, whereof the Commanders and Officers here inclyned (which I had from my Colonells awne hands) are a parte, wee brought away with us twenty six or tweney seven En<g ref="char:EOLhyphen"/>signes Colors, I wat not weele which, and 3. or 4. Cornets Colours, one of them was <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ane from Sir <hi>Marmaduke Wivells sonne,</hi> wee brought also away with us foure brasse greate Gunnes with all their baggage Armes, &amp; ammunition they left in the Towne, with divers horse also, and returned (but glory bee to our guid God and not to man for it) with the same to <hi>Leeds,</hi> and lost not in the feight Neene men, about sixtie wounded, and not aboue fifty of the enemies were slayne, for they durst not bide to feight: Sir
+<pb n="4" facs="tcp:153483:5"/>
+               <hi>William Carnaby</hi> and Sergeant Major <hi>Hotlby</hi> and Lieutenant Co<g ref="char:EOLhyphen"/>lonell <hi>Saier</hi> are said to be the anely men of no<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e slaine of the Ene<g ref="char:EOLhyphen"/>mies side; my sell and twenty mare got into the Kirke garth and wee paid them hame with muskett shott from the new<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the Kirke and walls about it: The reason why Sir <hi>Thomas Fairefaxe</hi> would not leave a Garrison in the Towne, was, least the Enemy should get head, and fall upon <hi>Leeds</hi> or <hi>Bradford,</hi> and my Lourds forces are not enough to keepe Garrisons in <hi>Wakefeild, Leedes, Bradford, Hallifaxe,</hi> and <hi>Howley,</hi> and to keepe the Countrey open to bring in provision for supply of our Army; we marvell mickle the Parliament will send us nother mony, nor Armes, nor Horse, which we want mast, if they did we would (with Gods helpe I say still) be other master of the Feild or streiten their Quarters, and open the passage to <hi>Hull,</hi> which would bring in Trade againe to these Clathing Townes, and monny guide things besides; I tell you what you may doe weele to doe, to put into the head of some Parliament man, by way of diversion, I speake as a young Soul<g ref="char:EOLhyphen"/>dier, to send some Forces by Sea to take <hi>Newcastle,</hi> where there was not on Tuesday last aboune 300. Souldiers heire, and at <hi>Tin<g ref="char:EOLhyphen"/>mouth,</hi> and thou knawest weele their Commander Sir <hi>T.R.</hi> will lop away at first shot. If <hi>Newcastle</hi> were tane you shall have bonny fires awe Winter lang, and the Cavaleers that have interest in the Colliers, and Salt-pans, and Customes, will quickly raise 60000. pound to defray the charges in taking the Towne; by that little Judgment I have of <hi>London,</hi> I am of opinion there is nothing in the world like the taking in of <hi>Newcastle</hi> for them: you have but twea wayes to doe it; by your owne sels In the South; or by our bretheren beyond <hi>Tweed,</hi> if it bee attempted by either, it will enforce all our country men, <hi>Northumberland,</hi> and Bishoppricke men to desert the Queene to defend their owne Country, and then I am sure the <hi>Riddells,</hi> the <hi>Grayes,</hi> the <hi>Lambtons,</hi> the <hi>Widdring<g ref="char:EOLhyphen"/>tons</hi> and all the Keele-men will leave the Queene, and then three parts of fower of her Army is gane, and shee will bee then in a <hi>Germaine</hi> condition: what course soever you take, doe not take Armes against the Parliament, for though wavering at first, I see God is on their side, and doth mare then man.</p>
+            <pb n="5" facs="tcp:153483:5"/>
+            <p>Sall I tell you the Story of an awde wife in <hi>Wakef<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eld</hi> as she was sitting on the midding wringing her hands and greeting after the feight was done, that she had lived sea lang, and she had heard of the <hi>Pindar</hi> of <hi>Wakefield, Geordy Greene,</hi> and <hi>Little John,</hi> but never thought sike doings had beene in the world, and never since shee was borne did she, and she thinks nene else in the Towne observe the Song of <hi>Geordy Greene</hi> before now, And not shift themselves till Munday, and repeated these aude Verses following;
+<q>
+                  <l>In <hi>Wakefield</hi> on a Greene, upon a Whitsunday,</l>
+                  <l>The Maids in <hi>Wakefield</hi> would goe dance, Put on your smocks on Munday.</l>
+               </q> She swore that aude Mother <hi>Shipdon</hi> was a Witch, for she prophe<g ref="char:EOLhyphen"/>sied of these times: the rest of the Letter is matter of privacie, and harder English to understand.</p>
+            <closer>
+               <dateline>
+                  <hi>Leeds this Witsun-Munday,</hi>
+                  <date>May 22.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="8" facs="tcp:153483:6"/>
+            <head>The List of the Commanders &amp; Of<g ref="char:EOLhyphen"/>ficers taken Prisoners, are as followeth:</head>
+            <list>
+               <item>GEnerall <hi>Goring.</hi>
+               </item>
+               <item>Sir <hi>Tho: Bland,</hi> Lieute<g ref="char:EOLhyphen"/>nant Colonel to Sir <hi>George Wentworth.</hi>
+               </item>
+               <item>Lieutenant Col: St. <hi>George.</hi>
+               </item>
+               <item>Lieutenant Colonell <hi>Mack<g ref="char:EOLhyphen"/>moyler.</hi>
+               </item>
+               <item>Serjeant Major <hi>Car.</hi>
+               </item>
+               <item>Captaine <hi>Car.</hi>
+               </item>
+               <item>Captaine <hi>Knight.</hi>
+               </item>
+               <item>Captaine <hi>Wildbore.</hi>
+               </item>
+               <item>Captaine <hi>Rudstone.</hi>
+               </item>
+               <item>Captaine <hi>Pemberton.</hi>
+               </item>
+               <item>Captaine <hi>Croft.</hi>
+               </item>
+               <item>Captaine <hi>Ledgard.</hi>
+               </item>
+               <item>Captaine <hi>Lasly.</hi>
+               </item>
+               <item>Captaine <hi>Rally.</hi>
+               </item>
+               <item>Captaine <hi>Nuttall.</hi>
+               </item>
+               <item>Captain Lieutenant <hi>Benson.</hi>
+               </item>
+               <item>Serjeant Major <hi>Carnaby,</hi> and Captain <hi>Nuttall</hi> left woun<g ref="char:EOLhyphen"/>ded in <hi>Wakefield,</hi> upon their engagements to bee true prisoners.</item>
+            </list>
+            <list>
+               <head>Lieutenants.</head>
+               <item>
+                  <hi>Monokton.</hi>
+               </item>
+               <item>
+                  <hi>Thomas.</hi>
+               </item>
+               <item>
+                  <hi>Wheateley.</hi>
+               </item>
+               <item>
+                  <hi>Kent.</hi>
+               </item>
+               <item>
+                  <hi>Nicholson.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Ensignes.</head>
+               <item>
+                  <hi>Squire. Vavasour.</hi>
+               </item>
+               <item>
+                  <hi>Masken. Lumpton.</hi>
+               </item>
+               <item>
+                  <hi>Ducket. Stockhald.</hi>
+               </item>
+               <item>
+                  <hi>Balwinson. Davies.</hi>
+               </item>
+               <item>
+                  <hi>Car. Gibson.</hi>
+               </item>
+               <item>
+                  <hi>Smaythwait. Ballinson.</hi>
+               </item>
+               <item>
+                  <hi>Watson. Smelt.</hi>
+               </item>
+               <item>
+                  <hi>Haliburton.</hi> Cornet <hi>Wivell.</hi>
+               </item>
+            </list>
+            <p>There were in the Towne (he writes) about three thousand foot, eight Troopes of horse, and Colonell <hi>Lambtons</hi> Regiment, which came also to their assistance. There were one thousand five hundred horse and foote of the Lord <hi>Fairfaxes,</hi> which obtained this glorious Victory against them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153483:6"/>
+            <pb facs="tcp:153483:7"/>
+            <pb facs="tcp:153483:7"/>
+            <pb facs="tcp:153483:8"/>
+            <pb facs="tcp:153483:8"/>
+            <pb facs="tcp:153483:9"/>
+            <pb facs="tcp:153483:9"/>
+            <pb facs="tcp:153483:10"/>
+            <pb facs="tcp:153483:10"/>
+            <pb facs="tcp:153483:11"/>
+            <pb facs="tcp:153483:11"/>
+            <pb facs="tcp:153483:12"/>
+            <pb facs="tcp:153483:12"/>
+            <pb facs="tcp:153483:13"/>
+            <pb facs="tcp:153483:13"/>
+            <pb facs="tcp:153483:14"/>
+            <pb facs="tcp:153483:14"/>
+            <pb facs="tcp:153483:15"/>
+            <pb facs="tcp:153483:15"/>
+            <pb facs="tcp:153483:16"/>
+            <pb facs="tcp:153483:16"/>
+            <pb facs="tcp:153483:17"/>
+            <pb facs="tcp:153483:17"/>
+            <pb facs="tcp:153483:18"/>
+            <pb facs="tcp:153483:18"/>
+            <pb facs="tcp:153483:19"/>
+            <pb facs="tcp:153483:19"/>
+            <pb facs="tcp:153483:20"/>
+            <pb facs="tcp:153483:20"/>
+            <pb facs="tcp:153483:21"/>
+            <pb facs="tcp:153483:21"/>
+            <pb facs="tcp:153483:22"/>
+            <pb facs="tcp:153483:22"/>
+            <pb facs="tcp:153483:23"/>
+            <pb facs="tcp:153483:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
